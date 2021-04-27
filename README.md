@@ -1,3 +1,3 @@
 # TypeScript App
 
-!img["./resources/typescriptLogo.png"] !img["./resources/dollar-signs-transparent-4.png"]
+[TypeScriptLogo](/resources/typescriptLogo.png) [LogoTypeScriptApp](/resources/dollar-signs-transparent-4.png)
